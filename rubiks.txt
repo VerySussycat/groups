@@ -4,6 +4,8 @@
 
 3 ---> Can we solve any rubiks cube?
 
-4 ---> How many possible states can a rubiks cube be in 
+4 ---> How many possible states can a rubiks cube be in?
 
-5 ---> How to solve a rubik's cube in a structured way(Prove that the process will terminate within a certain amount of moves)
+5 ---> How to solve a rubik's cube in a structured way.(Prove that the process will terminate within a certain amount of moves.)
+
+6 ---> What is the maximum number of steps required to solve any configuration of the cube.
